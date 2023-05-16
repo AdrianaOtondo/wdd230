@@ -1,5 +1,5 @@
 header, footer {
-	background-color: rgb(72, 97, 123);
+	background-color: rgba(128, 160, 103, 0.918);
 	text-align: center;
 	border-radius: 10px;
 	max-width: 50rem;
@@ -18,7 +18,7 @@ header{
 body, html {
 	font-size: 16px;
 	height: 100%;
-	background-color: rgb(94, 151, 120);
+	background-color: rgba(202, 154, 82, 0.712);
 	text-align: left;
 }
 
