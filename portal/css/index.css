@@ -1,0 +1,47 @@
+header, footer {
+	background-color: rgb(72, 97, 123);
+	text-align: center;
+	border-radius: 10px;
+	max-width: 50rem;
+	padding: 0.75rem;
+	margin: auto;
+}
+
+header{
+	height: 120px;
+}
+
+.left {
+	text-align: justify;
+}
+
+body, html {
+	font-size: 16px;
+	height: 100%;
+	background-color: rgb(94, 151, 120);
+	text-align: left;
+}
+
+ h2{
+	margin-left: 650px;
+}
+
+ul{
+	margin-left: 680px;
+}
+
+header img {
+	width: 90px;
+	height: auto;
+	border-radius: 10px 10px 10px 10px;
+	float: left;
+	margin-top: -80px;
+}
+
+img {
+	border-style: none;
+}
+
+a {
+	text-decoration: none;
+}
